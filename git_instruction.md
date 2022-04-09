@@ -46,8 +46,8 @@ git diff
 ```
 git log
 ```
-Данная команда перечисляет коммиты с их хэш-кодами, имененм и электронной почтой автора, датой создания и сообщением коммита.
-По умолчанию последние коммиты находятся вверху.
+This command lists commits with their hash codes, the name and email of the author, the date of creation and the message of the commit.
+By default, the latest commits are at the top.
 
 Для выхода из режима просмотра истории используется клавиша q
 
