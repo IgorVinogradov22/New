@@ -37,7 +37,7 @@ git add <имя файла с расшиирением>
 ```
 git commit -m "<Текст коммита - описание сделанных в файле изменений>"
 ```
-* Чтобы посмотреть разницу между текущим файлом и текущим коммитом можно выполнить команду:
+* To see the difference between the current file and the current commit, you can run the command:
 ```
 git diff
 ```
