@@ -37,7 +37,7 @@ git add <имя файла с расшиирением>
 ```
 git commit -m "<Текст коммита - описание сделанных в файле изменений>"
 ```
-* To see the difference between the current file and the current commit, you can run the command:
+* Чтобы увидеть разницу между текущим файлом и текущей фиксацией, вы можете выполнить команду:
 ```
 git diff
 ```
@@ -46,8 +46,8 @@ git diff
 ```
 git log
 ```
-This command lists commits with their hash codes, the name and email of the author, the date of creation and the message of the commit.
-By default, the latest commits are at the top.
+Данная команда перечисляет коммиты с их хэш-кодами, именем и электронной почтой автора, датой создания и сообщением коммита.
+По умолчанию последние коммиты находятся вверху.
 
 Для выхода из режима просмотра истории используется клавиша q
 
